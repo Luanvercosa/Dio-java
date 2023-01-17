@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Estacionamento {
     String placa;
-     Integer horas;
+    Integer horas;
     private double precoInicial = 0;
     private double precoPorHora = 0;
     List<String> veiculos = new ArrayList<String>();
